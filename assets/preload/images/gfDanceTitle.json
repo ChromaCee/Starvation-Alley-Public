@@ -1,0 +1,15 @@
+{	
+	"titlex":150,
+	"titley":0,
+	"startx":100,
+	"starty":576,
+	"gfx":512,
+	"gfy":40,
+	"herrax":75,
+	"herray":200,
+	"picox":850,
+	"picoy":300,
+	"backgroundSprite":"BGBlur",
+	"bgsize": 0.7,
+	"bpm":102
+}

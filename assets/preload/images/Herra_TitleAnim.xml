@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Herra_TitleAnim.png">
+	<!-- Created with Adobe Animate version 21.0.11.42684 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="herra idle hello instance 10000" x="1" y="1" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10001" x="1" y="1" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10002" x="425" y="1" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10003" x="425" y="1" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10004" x="849" y="1" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10005" x="849" y="1" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10006" x="1273" y="1" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10007" x="1273" y="1" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10008" x="1" y="577" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10009" x="1" y="577" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10010" x="1" y="577" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10011" x="1" y="577" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10012" x="1" y="577" width="419" height="571"/>
+	<SubTexture name="herra idle hello instance 10013" x="1" y="577" width="419" height="571"/>
+</TextureAtlas>

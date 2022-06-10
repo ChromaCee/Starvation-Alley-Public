@@ -1,0 +1,23 @@
+:amb:cityambience:0.9
+:amb:fadeIn:0.9
+
+:text:default: On a cold, filthy night...
+:text:default: A homeless hitman lies hungry.
+
+:effect:bgFadeIn:
+:bg:b1:
+
+:text:default: Life is a struggle, and just a simple meal has been a challenge to find.
+
+:bg:b2:
+
+:text:default: The hitman, named Pico, has failed to find food for the past several days.
+:text:default: He sits on the alley floor, nauseated by the hunger.
+
+:bg:b3:
+
+:text:default: As the dawn rose, a blue-eyed street artist, named Herra, finds him in the filth...
+:text:default: And hears the echos of his empty belly.
+
+:amb:fadeOut:
+:effect:hungerthingy:

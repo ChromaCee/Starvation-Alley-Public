@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				131
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "herra idle hello",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				122
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "herra sing left hello",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				136
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "herra sing right hello",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "herra sing up hello"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				104
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "herra sing down hello",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "herra idle apple"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				122
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "herra sing left apple",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				136
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "herra sing right apple",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				170
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "herra sing up apple",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				104
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "herra sing down apple",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-altTwo",
+			"indices": [],
+			"name": "herra idle dude"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				122
+			],
+			"anim": "singLEFT-altTwo",
+			"fps": 24,
+			"name": "herra sing left dude",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				136
+			],
+			"anim": "singRIGHT-altTwo",
+			"fps": 24,
+			"name": "herra sing right dude",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				170
+			],
+			"anim": "singUP-altTwo",
+			"fps": 24,
+			"name": "herra sing up dude",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				104
+			],
+			"anim": "singDOWN-altTwo",
+			"fps": 24,
+			"name": "herra sing down dude",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "giveApple",
+			"indices": [],
+			"name": "herra give apple"
+		},
+		{
+			"offsets": [
+				124,
+				156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stunsmile",
+			"indices": [],
+			"name": "herra grab eat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/herra_side_view",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "herra",
+	"flip_x": false,
+	"healthbar_colors": [
+		242,
+		212,
+		86
+	],
+	"camera_position": [
+		10,
+		-65
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

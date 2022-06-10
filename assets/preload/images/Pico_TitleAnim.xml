@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pico_TitleAnim.png">
+	<!-- Created with Adobe Animate version 21.0.11.42684 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pico idle whoru instance 10000" x="1" y="1" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10001" x="1" y="1" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10002" x="570" y="1" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10003" x="570" y="1" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10004" x="1139" y="1" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10005" x="1139" y="1" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10006" x="1" y="519" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10007" x="1" y="519" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10008" x="570" y="519" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10009" x="570" y="519" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10010" x="570" y="519" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10011" x="570" y="519" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10012" x="570" y="519" width="564" height="513"/>
+	<SubTexture name="pico idle whoru instance 10013" x="570" y="519" width="564" height="513"/>
+</TextureAtlas>

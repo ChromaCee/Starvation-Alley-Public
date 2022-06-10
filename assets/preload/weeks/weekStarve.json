@@ -1,0 +1,32 @@
+{
+	"storyName": "Starvation Alley",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "weekStarve",
+	"weekBefore": "",
+	"freeplayColor": [
+		49,
+		28,
+		93
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Deprivation",
+			"herra",
+			[
+				47,
+				28,
+				93
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weekStarve"
+}

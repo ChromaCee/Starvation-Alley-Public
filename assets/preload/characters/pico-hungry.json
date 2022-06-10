@@ -1,0 +1,353 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pico idle whoru"
+		},
+		{
+			"offsets": [
+				3,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico sing up whoru"
+		},
+		{
+			"offsets": [
+				3,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pico sing down whoru"
+		},
+		{
+			"offsets": [
+				-25,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pico sing right whoru"
+		},
+		{
+			"offsets": [
+				38,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pico sing left whoru"
+		},
+		{
+			"offsets": [
+				12,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico sing up MISS whoru"
+		},
+		{
+			"offsets": [
+				11,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "pico sing down MISS whoru"
+		},
+		{
+			"offsets": [
+				-22,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "pico sing right MISS whoru"
+		},
+		{
+			"offsets": [
+				41,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "pico sing left MISS whoru"
+		},
+		{
+			"offsets": [
+				13,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "pico idle what"
+		},
+		{
+			"offsets": [
+				12,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "pico sing up what"
+		},
+		{
+			"offsets": [
+				11,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "pico sing down what"
+		},
+		{
+			"offsets": [
+				-25,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "pico sing right what"
+		},
+		{
+			"offsets": [
+				47,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "pico sing left what"
+		},
+		{
+			"offsets": [
+				12,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss-alt",
+			"indices": [],
+			"name": "pico sing up MISS what"
+		},
+		{
+			"offsets": [
+				11,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss-alt",
+			"indices": [],
+			"name": "pico sing down MISS what"
+		},
+		{
+			"offsets": [
+				-22,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss-alt",
+			"indices": [],
+			"name": "pico sing right MISS what"
+		},
+		{
+			"offsets": [
+				47,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss-alt",
+			"indices": [],
+			"name": "pico sing left MISS what"
+		},
+		{
+			"offsets": [
+				13,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-altTwo",
+			"indices": [],
+			"name": "pico idle hunger"
+		},
+		{
+			"offsets": [
+				12,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-altTwo",
+			"indices": [],
+			"name": "pico sing up hunger"
+		},
+		{
+			"offsets": [
+				11,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-altTwo",
+			"indices": [],
+			"name": "pico sing down hunger"
+		},
+		{
+			"offsets": [
+				-25,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-altTwo",
+			"indices": [],
+			"name": "pico sing right hunger"
+		},
+		{
+			"offsets": [
+				47,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-altTwo",
+			"indices": [],
+			"name": "pico sing left hunger"
+		},
+		{
+			"offsets": [
+				12,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss-altTwo",
+			"indices": [],
+			"name": "pico sing up MISS hunger"
+		},
+		{
+			"offsets": [
+				11,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss-altTwo",
+			"indices": [],
+			"name": "pico sing down MISS hunger"
+		},
+		{
+			"offsets": [
+				-22,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss-altTwo",
+			"indices": [],
+			"name": "pico sing right MISS hunger"
+		},
+		{
+			"offsets": [
+				47,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss-altTwo",
+			"indices": [],
+			"name": "pico sing left MISS hunger"
+		},
+		{
+			"offsets": [
+				11,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hungry",
+			"indices": [],
+			"name": "pico hungry poorbaby"
+		},
+		{
+			"offsets": [
+				14,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hungryCutscene",
+			"indices": [],
+			"name": "pico hungry sequence"
+		},
+		{
+			"offsets": [
+				145,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "grabeat",
+			"indices": [],
+			"name": "pico grab eat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pico_hungry",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "pico-hungry",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		70,
+		-26
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

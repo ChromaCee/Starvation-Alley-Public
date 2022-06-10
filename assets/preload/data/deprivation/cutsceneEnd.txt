@@ -1,0 +1,33 @@
+:effect:bgFadeIn:
+:bg:b4:
+:music:gay:1.0
+:music:fadeIn:1.0
+
+:text:default: As the months went by, Herra continued to feed and look out for Pico.
+
+:bg:b5:
+
+:text:default: She ensured that the ginger-haired hitman had a full belly as he faced the streets.
+:text:default: They had soon built a trust in each other and became friends.
+
+:bg:b6:
+
+:text:default: Eventually, the two grew beyond the friendship...
+
+:bg:b7:
+
+:text:default: And bloomed into a romance.
+:text:default: And from that day forward...
+
+:bg:b8:
+
+:text:default: The two embarked on many adventures,
+:text:default: Navigated the hard parts of life together,
+
+:bg:b9:
+
+:text:default: And got freaky on a friday night.
+
+:effect:bgFadeIn:
+:bg:thanksforplaying:
+:effect:hidden:

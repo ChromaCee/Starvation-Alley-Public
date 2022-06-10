@@ -1,0 +1,189 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": "alley",
+		"player1": "pico-hungry",
+		"player2": "herra-side",
+		"player3": null,
+		"events": [
+			[
+				48000,
+				[
+					[
+						"Fade HUD",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50400,
+				[
+					[
+						"Play Animation",
+						"hungryCutscene",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"giveApple",
+						"Dad"
+					]
+				]
+			],
+			[
+				56400,
+				[
+					[
+						"Unfade HUD",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					],
+					[
+						"Alt Idle Animation",
+						"BF",
+						"-alt"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Sunrise",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"Play Animation",
+						"hungry",
+						"BF"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Play Animation",
+						"hungry",
+						"BF"
+					]
+				]
+			],
+			[
+				117600,
+				[
+					[
+						"Play Animation",
+						"hungry",
+						"BF"
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Play Animation",
+						"hungry",
+						"BF"
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Alt Idle Animation",
+						"BF",
+						"-altTwo"
+					],
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-altTwo"
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Play Animation",
+						"hungry",
+						"BF"
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Play Animation",
+						"hungry",
+						"BF"
+					]
+				]
+			],
+			[
+				182100,
+				[
+					[
+						"Fade HUD",
+						"",
+						""
+					]
+				]
+			],
+			[
+				182400,
+				[
+					[
+						"Play Animation",
+						"grabeat",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"stunsmile",
+						"Dad"
+					]
+				]
+			],
+			[
+				182700,
+				[
+					[
+						"Bite",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Deprivation"
+	}
+}
