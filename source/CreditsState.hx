@@ -87,6 +87,7 @@ class CreditsState extends MusicBeatState
 			['JDogg',			'clear',		'Main Charter\nBeta Tester',						'https://m.youtube.com/channel/UCqf4rPf84V9UpUuobY__qXQ',			'7F5D7C'],
 			['SaltyySythe',		'clear',		'Main Menu Artist',									'https://twitter.com/SaltyySytheNEO',							'7F5D7C'],
 			['ViSaguis',		'clear',		'Cutscene Artist',									'https://gamejolt.com/@ViSanguis',									'7F5D7C'],
+			['AkiraWav3',		'clear',		'Logo Artist',										'https://www.fiverr.com/akirawave?source=gig_cards&referrer_gig_slug=design-an-fnf-logo&ref_ctx_id=d22121656ba239cdea7b3b9a6326c356&imp_id=ff449f58-2503-4cce-8727-1a0bf90cfa84',							'7F5D7C'],
 			['Blazing Phoenix',	'clear',		'Beta Tester',										'https://twitter.com/ThatBlazinPhnix',								'7F5D7C'],
 			['CaptainColtrane',		'clear',	'Beta Tester',										'https://captaincoltrane.newgrounds.com/',							'7F5D7C'],
 			[''],
